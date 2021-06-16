@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+/* Bordered form */
+form {
+    border: 3px solid #f1f1f1;
+    body {
+        text-align: center;
+    }
+    form {
+        display: inline-block;
+    }
